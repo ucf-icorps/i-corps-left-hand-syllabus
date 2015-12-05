@@ -4,7 +4,7 @@ Each week’s class is organized around participants hypothesis-testing their bu
 
 * Talking to 10-15 customers.
 
-* Capturing their Customer Discovery progress by using the LaunchPad Central Software ([https://launchpadcentral.com/](https://launchpadcentral.com/) ) and updating their Business Model Canvas.
+* Capturing their Customer Discovery progress by using the [LaunchPad Central Platform](../platform.md) ) and updating their Business Model Canvas.
 
 * Taking what they learned and assembling a 10-minute Lessons Learned Presentation.
 
@@ -12,7 +12,7 @@ Each week’s class is organized around participants hypothesis-testing their bu
 
 * Attending mandatory office hours.
 
-* Watching the Udacity lecture for the week and preparing questions for discussion.
+* Watching the lecture(s) for the week and preparing questions for discussion.
 
 * Receiving comments and suggestions from other teams and the teaching team on the lessons learned.
 
