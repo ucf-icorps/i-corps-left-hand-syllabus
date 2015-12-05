@@ -1,3 +1,3 @@
 # Class 1: Business Model and Customer Development 
 
-![BMC](bmc.png "Canvas")
+![BMC](http://diytoolkit.org/media/Business-Model-Canvasb.jpg "Canvas")
