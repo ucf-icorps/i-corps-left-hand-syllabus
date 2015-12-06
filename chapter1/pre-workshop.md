@@ -2,7 +2,15 @@
 
 * Read ["Talking To Humans" (free PDF)](http://www.talkingtohumans.com/download)
 
-* Watch Flipped Classroom videos on BMC and Customer Development - Lectures 1, 1.5a, and 1.5b on LaunchPad Central
+* Watch Flipped Classroom videos in LaunchPad Central
+
+  * Customer Discovery Best Practice
+ 
+  * Lecture 1: What We Now Know
+ 
+    * Lecture 1.5A:  Business Models and Customer Development
+ 
+    * Lecture 1.5B: Business Models and Customer Development
 
 * Pick a team name
 
