@@ -6,7 +6,13 @@ Talk to at least 10-15 potential customers including potential partners, supplie
 
 ### Reading/Viewing:
 
-* Watch Lesson 8 in LaunchPad Central: Resources, Activities, and Costs.
+* Watch past teams’ final presentations
+
+    * UCF cohort 1: [https://www.youtube.com/watch?v=SfABV6mBPJM&list=PLdHqjJDHcWzmuC2UBEyUKUQW7V7mWurgr](https://www.youtube.com/watch?v=SfABV6mBPJM&list=PLdHqjJDHcWzmuC2UBEyUKUQW7V7mWurgr) 
+
+    * UCF cohort 3: [https://www.youtube.com/watch?v=a_ZQVuREGUk&list=PLdHqjJDHcWzmJL6tdBr3t5yjR6YaG0-fL](https://www.youtube.com/watch?v=a_ZQVuREGUk&list=PLdHqjJDHcWzmJL6tdBr3t5yjR6YaG0-fL) 
+
+    * See [http://www.slideshare.net/sblank](http://www.slideshare.net/sblank) for more examples
 
 * Read
 
