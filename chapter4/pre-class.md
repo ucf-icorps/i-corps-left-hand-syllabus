@@ -8,7 +8,9 @@ Conduct 10-15 Customer Interviews.
 
 * Watch
 
-    * Watch Lecture 3 in LaunchPad Central: Customer Segments
+    * Watch Flipped Classroom videos in LaunchPad Central
+
+       * Lecture 4: Customer Channels
 
 * Read
 
