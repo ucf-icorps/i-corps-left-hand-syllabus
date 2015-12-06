@@ -6,7 +6,9 @@ Talk to at least 10-15 potential customers, including partners.
 
 ### Reading/Viewing:
 
-* Watch Lesson 7 in LaunchPad Central: Partners
+* Watch Flipped Classroom videos in LaunchPad Central
+
+    * Lecture 8: Resources, Activities and Costs
 
 * Read
 
