@@ -6,7 +6,9 @@ Conduct 10-15 Customer Interviews.
 
 ### Reading/Viewing
 
-* Watch Lesson 5 in LaunchPad Central: Customer Relationships
+* Watch Flipped Classroom videos in LaunchPad Central
+
+    * Lecture 6: Revenue Model
 
 * Read:
 
