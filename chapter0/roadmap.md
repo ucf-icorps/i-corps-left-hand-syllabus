@@ -26,6 +26,4 @@ Each week’s class is organized around participants hypothesis-testing their bu
 
 The work you will be presenting will be based on the lecture you watched the prior week. The lecture you watch just before classes, and the in-class lecture, will cover the upcoming week’s business model topic to prepare you for the discovery tasks for that week. That means we expect you to have watched that lecture prior to the class.
 
-For example, when you arrive for Class 2, where you will be presenting your work on Value Proposition, you are expected to have just watched the Customer Segments lecture on LaunchPad Central. You should come prepared with any questions or comments about Customer Segments for in-class discussion (which will occur at the end of the team presentations on Value Proposition).
-
 Each week you are expected to have an updated version of your entire Business Model Canvas, but your Customer Discovery should focus primarily on the topic from the previous class’s lecture and pre-class readings and videos.
