@@ -2,7 +2,7 @@
 
 Each team is expected to speak to at least 10-15 customers every week. The 10-minute weekly team presentations are summaries of the team’s findings during that week.
 
-Each week, you are expected to have an updated version of your entire Business Model Canvas, but your Customer Discovery should focus primarily on the topic listed for the week, which was discussed at the end of previous class. This is true regardless of whether you’ve pivoted and are re-exploring topics from earlier lectures. In the case of a pivot (which can be indicative of successful Customer Discovery), you will have to work doubly hard to cover earlier class topics and touch on current class topics in your weekly presentation. The format for slides will vary week to week, however the general format is this:
+Each week, you are expected to have an updated version of your entire Business Model Canvas, but your Customer Discovery should focus primarily on the topic listed for the week, which was discussed at the end of previous class. This is true regardless of whether you’ve pivoted and are re-exploring topics from earlier lectures. In the case of a pivot (which can be indicative of successful Customer Discovery), you will have to work doubly hard to cover earlier class topics and touch on current class topics in your weekly presentation. **The format for slides will vary week to week**, however the *general* format is this:
 
 ### Slide 1: Cover slide
 
