@@ -20,6 +20,7 @@
     * [Course Roadmap](chapter0/roadmap.md)
     * [Guidelines for Team Presentations](chapter0/presentation-guideline.md)
     * [Office Hours](chapter0/office-hours.md)
+    * [Accessing Funds](chapter0/accessing_funds.md)
     * [Allowable Expenses](chapter0/allowable-expenses.md)
 * [Pre-class Workshop](chapter1/readme.md)
     * [Pre-Workshop Assignments](chapter1/pre-workshop.md)
