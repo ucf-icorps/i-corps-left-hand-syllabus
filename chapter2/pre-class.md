@@ -31,3 +31,26 @@ Talk to at least 10-15 potential customers and channel partners (Salesman, OEMs 
  
 ### Presentations
 
+Prepare a presentation to present your channel partners:
+
+* Slide 1: Title slide.
+
+* Slide 2: Business Model Canvas with any changes marked in red and multi-sided market
+
+* Slide 3: 
+
+    * What is the distribution channel? Are there alternatives?
+
+    * What was it that made channel partners interested? Excited?
+
+* Slide 4: What did you learn about your channel?
+
+    * Hypothesis: Here’s What we Thought
+
+    * Experiments: Here’s what we Did
+
+    * Results: Here’s What we Found
+
+    * Action: Here’s What We Are Going to Do Next
+
+* Draw the channel diagram and annotate it with the channel economics.
