@@ -10,6 +10,7 @@ Talk to at least 10-15 potential customers and channel partners (Salesman, OEMs 
 
 * Watch Flipped Classroom videos in LaunchPad Central
 
+    * Lecture 8: Resources, Activities and Costs
 
 * Read
 
