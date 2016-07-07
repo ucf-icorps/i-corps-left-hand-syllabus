@@ -5,59 +5,29 @@
 Talk to at least 10-15 potential customers and channel partners (Salesman, OEMs distributors, etc.)
 
 ### Reading/Viewing
+* See Mark Leslie’s Value Chain at [http://www.slideshare.net/markleslie01/100622-value-chain-g-tm-strategy-sales-model?qid=633f5a68-46ec-4364-b870-d6ac0f3e0ca2&v=default&b=&from_search=1](http://www.slideshare.net/markleslie01/100622-value-chain-g-tm-strategy-sales-model?qid=633f5a68-46ec-4364-b870-d6ac0f3e0ca2&v=default&b=&from_search=1)
 
-* Watch
+* Watch Flipped Classroom videos in LaunchPad Central
 
-    * Flipped Classroom videos in LaunchPad Central
-
-        * Lecture 2: Value Proposition
-
-    * Customer Discovery Checklist: [http://startupweekend.wistia.com/projects/zt618zz0r7](http://startupweekend.wistia.com/projects/zt618zz0r7)
-
-    * How to do Customer Discovery: [http://startupweekend.wistia.com/projects/8ss0rm03pj](http://startupweekend.wistia.com/projects/8ss0rm03pj)
+    * Lecture 5: Customer Relationships
 
 * Read
 
     * BMG
 
-        * pp. 14-49: The 9 Building Blocks of the Canvas
+        *  pp. 147-159: Visual Thinking
 
-    * SOM
+    * SOM 
 
-        * pp. 1-75: Intro to Customer Development and Customer Discovery, Market Size
+        * pp. 98-111: Channels 
 
-        * pp. 472: Market Size; pp. 112-122 and 457-458: Market Type
+        * pp. 243-244: Meet the Channel
 
-        * pp. 123-124: Competitors
+        * pp. 332-343: Channel Roadmap 
 
-* Review Startup Tools: [http://steveblank.com/tools-and-blogs-for-entrepreneurs/](http://steveblank.com/tools-and-blogs-for-entrepreneurs/) 
+        * pp. 406-412: Distribution Channels
 
-* Skim Course Strategy:  [http://steveblank.com/category/lean-launchpad/](http://steveblank.com/category/lean-launchpad/)  
+        * pp. 478 Channels Checklist
+ 
+### Presentations
 
-* Skim prior team presentations: [http://www.slideshare.net/sblank/presentations](http://www.slideshare.net/sblank/presentations) 
-
-### Presentations: Business Model Hypotheses
-
-Prepare a presentation to present your business model to the class:
-
-* Slide 1: Title Slide – Team Name and Number of Interviews conducted
-
-* Slide 2: Team’s Business Model Canvas
-
-* Slide 3: Identify your market type
-
-* Slide 4: Identify Market size (TAM/SAM/Target/Year 1-3)
-
-* Slide 5: Identify your competitors
-
-* Slide 6: Experiments used to test your initial hypotheses
-
-* Slide 7-n: What did you learn from talking to your first customers?
-
-    * Hypothesis: Here’s What we Thought
-
-    * Experiments: Here’s What we Did
-
-    * Results: Here’s What we Found
-
-    * Action: Here’s What we Are Going to Do Next
