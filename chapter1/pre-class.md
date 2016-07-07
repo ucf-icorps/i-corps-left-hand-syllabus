@@ -4,6 +4,8 @@
 
 * Watch Flipped Classroom videos in LaunchPad Central
 
-    * Lecture 5: Customer Relationships
+  * Lecture 4: Customer Channels
+    
+  * Lecture 5: Customer Relationships
 
-    * Lecture 6: Revenue Model
+  * Lecture 6: Revenue Model
