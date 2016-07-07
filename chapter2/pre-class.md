@@ -2,7 +2,7 @@
 
 ### Conduct Interviews
 
-Conduct 10-15 Customer Interviews on your initial Business Model Canvas hypotheses.
+Talk to at least 10-15 potential customers and channel partners (Salesman, OEMs distributors, etc.)
 
 ### Reading/Viewing
 
