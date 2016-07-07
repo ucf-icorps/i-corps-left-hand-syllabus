@@ -25,3 +25,13 @@
 * Revenue model is the strategy.
 
 * This is not about income statement, balance sheet, and cash flow. Those are operating details that are derived after a proven Revenue Model and pricing.
+
+* Definition of a distribution channel: direct, indirect, and OEM.
+
+* Difference between physical and virtual channels.
+
+* Types of physical and virtual channels.
+
+* Distribution channels versus product complexity.
+
+* Distribution channel economics.
