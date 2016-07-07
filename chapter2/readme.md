@@ -1,1 +1,1 @@
-# Class 2: Reve
+# Class 2: Revenue Streams and Channels
