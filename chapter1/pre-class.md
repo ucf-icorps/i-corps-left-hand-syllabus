@@ -14,14 +14,14 @@
 
     * BMG
 
-        * pp. 146-159: Visual Thinking pg. 146-159
+        * pp. 146-159: Visual Thinking
 
     * SOM
 
-        * Customer Relationships Hypotheses pg. 126-143
+        * pp. 126-143: Customer Relationships Hypotheses
 
-        * Get Ready to Sell pg. 296-303
+        * pp. 296-303: Get Ready to Sell
 
-        * Customer Relationships Checklist pg. 480-482
+        * pp. 480-482: Customer Relationships Checklist
 
-        * Test the Problem and Assess its Importance pg. 489
+        * pp. 489: Test the Problem and Assess its Importance
