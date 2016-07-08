@@ -6,18 +6,10 @@
 
 2. Teams present final presentations - 2 hr.
 
-    1. 10 min. presentations
+    1. 2 min. final video on lessons learned
+
+    2. 8 min. lessons learned presentations
 
     2. 3 min. Q&A critiques with Teaching Team
 
 ### Concepts Participants Should Understand
-
-* Definition of a distribution channel: direct, indirect, and OEM.
-
-* Difference between physical and virtual channels.
-
-* Types of physical and virtual channels.
-
-* Distribution channels versus product complexity.
-
-* Distribution channel economics.
