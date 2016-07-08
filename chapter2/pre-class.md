@@ -42,7 +42,7 @@ Prepare a presentation to present your channel partners:
 
 * Slide 1: Title slide.
 
-* Slide 2: Business Model Canvas
+* Slide 2: Business Model Canvas with different Customer Segments shown in different colors
 
 * Slide 3 - Channels: 
 
@@ -62,7 +62,6 @@ Prepare a presentation to present your channel partners:
 
     * Action: Here’s What We Are Going to Do Next
 
-* Draw the channel diagram and annotate it with the channel economics.
 
 ### Presentations: Revenue Models
 
