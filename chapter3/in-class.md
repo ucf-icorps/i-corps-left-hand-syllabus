@@ -14,3 +14,12 @@
 
 ### Concepts Participants Should Understand 
 
+* Cover the four categories of resources.
+
+* Cover the types of activities.
+
+* Talked about the effect of people upon the culture of the startup.
+
+* Enumerate the ways in which a startup’s intellectual property can be protected.
+
+* Add up all the "Metrics That Matter." Is this a business? Worth doing?
