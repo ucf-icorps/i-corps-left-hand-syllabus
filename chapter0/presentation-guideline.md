@@ -6,7 +6,8 @@ Each week, you are expected to have an updated version of your entire Business M
 
 ### Slide 1: Cover slide
 
-* Team name
+* Team name and logo
+
     * Team members/roles
 
 
