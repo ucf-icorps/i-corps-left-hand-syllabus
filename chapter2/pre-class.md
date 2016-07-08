@@ -40,7 +40,7 @@ Talk to at least 10-15 potential customers and channel partners (Salesman, OEMs 
 
 Prepare a presentation to present your channel partners:
 
-* Slide 1: Title slide.
+* Slide 1: Title slide
 
 * Slide 2: Business Model Canvas with different Customer Segments shown in different colors
 
