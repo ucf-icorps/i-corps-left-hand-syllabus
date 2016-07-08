@@ -14,7 +14,7 @@
 
     * BMG
 
-        * Visual Thinking pg. 146-159
+        * pp. 146-159: Visual Thinking pg. 146-159
 
     * SOM
 
