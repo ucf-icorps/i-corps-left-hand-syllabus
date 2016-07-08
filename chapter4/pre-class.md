@@ -20,4 +20,4 @@ Conduct 10-15 Customer Interviews.
 
         * pp. 484: Partners Checklist
 
-### Presentations: Customer Segments
+### Presentations: Key Partners & Costs
