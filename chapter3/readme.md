@@ -1,1 +1,1 @@
-# Class 2: Value Proposition
+# Class 3: Key Resources and Key Activities
