@@ -1,1 +1,1 @@
-# Class 4: Customer Channels
+# Class 5: Cost, Revenue, and Profitability
