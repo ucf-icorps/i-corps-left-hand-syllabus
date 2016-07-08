@@ -16,10 +16,6 @@ Talk to at least 10-15 potential customers and channel partners (Salesman, OEMs 
 
 * Read
 
-    * BMG
-
-        *  pp. 146-159: Visual Thinking
-
     * SOM 
 
         * pp. 98-111: Channels 
