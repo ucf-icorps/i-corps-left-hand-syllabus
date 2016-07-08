@@ -1,1 +1,1 @@
-# Class 3: Customer Segments
+# Class 4: Key Partners & Costs
