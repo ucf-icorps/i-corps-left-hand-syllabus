@@ -40,7 +40,7 @@ Prepare a presentation to present your Resources, Activities, and Costs to the c
 
     * Diagram the finance and operations timeline:
 
-[https://steveblank.files.wordpress.com/2011/05/financial-and-ops-timeline.jpg](https://steveblank.files.wordpress.com/2011/05/financial-and-ops-timeline.jpg)
+    [https://steveblank.files.wordpress.com/2011/05/financial-and-ops-timeline.jpg](https://steveblank.files.wordpress.com/2011/05/financial-and-ops-timeline.jpg)
 
 * When you will need new resources?
 
