@@ -3,7 +3,7 @@
 
 ### Conduct Interviews
 
-Talk to at least 10-15 potential customers and channel partners (Salesman, OEMs distributors, etc.)
+Talk to at least 10-15 potential customers
 
 ### Reading/Viewing
 
