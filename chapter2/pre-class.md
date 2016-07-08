@@ -42,13 +42,15 @@ Prepare a presentation to present your channel partners:
 
 * Slide 1: Title slide.
 
-* Slide 2: Business Model Canvas with any changes marked in red and multi-sided market
+* Slide 2: Business Model Canvas
 
-* Slide 3: 
+* Slide 3 - Channels: 
 
     * What is the distribution channel? Are there alternatives?
 
     * What was it that made channel partners interested? Excited?
+
+    * Draw the channel diagram - Annotate it with the channel economics
 
 * Slide 4: What did you learn about your channel?
 
