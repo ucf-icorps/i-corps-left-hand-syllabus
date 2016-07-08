@@ -24,7 +24,7 @@ Talk to at least 10-15 potential customers and channel partners (Salesman, OEMs 
 
         * pp. 332-343: Channel Roadmap 
 
-        * pp. 406-412: Distribution Channels
+        * pp. 406-411: Distribution Channels
 
         * pp. 478 Channels Checklist
 
