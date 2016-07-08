@@ -28,7 +28,7 @@ Talk to at least 10-15 potential customers and channel partners (Salesman, OEMs 
 
         * pp. 478 Channels Checklist
 
-        * pp. 180-188: Revenue and Pricing Hypotheses
+        * pp. 180-187: Revenue and Pricing Hypotheses
 
         * pp. 260-269: Verify Business Model
 
