@@ -12,6 +12,12 @@ Conduct 10-15 Customer Interviews.
 
     * BMG
 
-    * SOM 
+    * SOM
+
+        * pp. 176-179: Partners
+
+        * pp. 406-411: Test Partners
+
+        * pp. 484: Partners Checklist
 
 ### Presentations: Customer Segments
