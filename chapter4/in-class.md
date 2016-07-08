@@ -13,3 +13,13 @@
 3. Lecture on Cost, Revenue, and Profitability - 30 min.
 
 ### Concepts Participants Should Understand
+
+* What is a partner?
+
+* Why you need them?
+
+* Types of partners.
+
+* Risks associated with having a partner and how to manage them.
+
+* Suggestions related to selecting a partner as a startup.
