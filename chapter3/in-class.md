@@ -6,7 +6,7 @@
 
 2. Teams present customer findings - 2 hr.
 
-    1. 10 min. presentations
+    1. 10 min. Presentations
 
     2. 3 min. Q & A/critiques with Teaching Team	
 
