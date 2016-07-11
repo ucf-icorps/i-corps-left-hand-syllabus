@@ -18,6 +18,8 @@ Conduct 10-15 Customer Interviews  to generate findings.
 
         * pp. 267-269: Can We Make Money and Grow the Company?
 
+        * Review pp. 438-456: Metrics that Matter
+
 ### Presentations: Resources, Activities, and Costs
 
 Prepare a presentation to present your Resources, Activities, and Costs to the class:
