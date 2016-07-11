@@ -22,6 +22,8 @@ Conduct 10-15 Customer Interviews  to generate findings.
 
 ### Presentation: Key Resources and Key Activities
 
+Prepare a presentation to present your Key Resources and Key Activities to the class:
+
 ### Presentations: Resources, Activities, and Costs
 
 Prepare a presentation to present your Resources, Activities, and Costs to the class:
