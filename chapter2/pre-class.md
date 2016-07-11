@@ -36,7 +36,7 @@ Talk to at least 10-15 potential customers and channel partners (Salesman, OEMs 
 
         * pp. 528: Validate Financial Model
  
-### Presentations: Channels and Revenue Streams
+### Presentation: Channels and Revenue Streams
 
 Prepare a presentation to present your channel partners:
 
