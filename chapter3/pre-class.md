@@ -40,7 +40,7 @@ Prepare a presentation to present your Resources, Activities, and Costs to the c
 
     * What resources do you need to build this business? How many people? What kind?
 
-    * Diagram the finance and operations timeline:
+    * Diagram the finance and operations time-line:
 
     [https://steveblank.files.wordpress.com/2011/05/financial-and-ops-timeline.jpg](https://steveblank.files.wordpress.com/2011/05/financial-and-ops-timeline.jpg)
 
