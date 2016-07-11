@@ -34,7 +34,7 @@ Talk to at least 10-15 potential customers and channel partners (Salesman, OEMs 
 
         * pp. 438-456: Metrics that Matter
 
-        * pp. 527: Validate Financial Model
+        * pp. 528: Validate Financial Model
  
 ### Presentations: Channels and Revenue Streams
 
