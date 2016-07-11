@@ -14,6 +14,8 @@ Conduct 10-15 Customer Interviews  to generate findings.
 
     * BMG 
 
+        * 
+
     * SOM 
 
         * pp. 169-175: Resources
