@@ -20,7 +20,7 @@ Conduct 10-15 Customer Interviews  to generate findings.
 
         * **Review** pp. 438-456: Metrics that Matter
 
-### Presentation: Resources, Activities and Costs
+### Presentation: Key Resources and Key Activities
 
 ### Presentations: Resources, Activities, and Costs
 
