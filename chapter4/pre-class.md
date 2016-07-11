@@ -20,6 +20,8 @@ Conduct 10-15 Customer Interviews.
 
         * pp. 484: Partners Checklist
 
+### Presentation: Key Partners & Costs
+
 ### Presentations: Key Partners & Costs
 
 Prepare a presentation to present your revenue model to the class:
