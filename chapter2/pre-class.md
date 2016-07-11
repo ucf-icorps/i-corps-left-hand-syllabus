@@ -50,19 +50,19 @@ Prepare a presentation to present your channel partners:
 
     * What was it that made channel partners interested? Excited?
 
-    * Draw the channel diagram - Annotate it with the channel economics
+* Slide 4: Draw the channel diagram - Annotate it with the channel economics
 
-* Slide 4 - Revenue Streams:
+* Slide 5 - Revenue Streams:
 
     * What were your hypotheses about revenue model and pricing?
 
     * What experiments do you run to test your Revenue Model and Pricing?
 
-* Slide 5: Diagram of payment flows.
+* Slide 6: Diagram of payment flows.
 
-* Slide 6: Rough three-year income statement to show you have a real business strategy around revenue model, channel, acquisition costs, etc. 
+* Slide 7: Rough three-year income statement to show you have a real business strategy around revenue model, channel, acquisition costs, etc. 
 
-* Slide 7: What did you learn about your Channel, Revenue Streams, and Pricing?
+* Slide 8: What did you learn about your Channel, Revenue Streams, and Pricing?
 
     * Hypothesis: Here’s What we Thought
 
