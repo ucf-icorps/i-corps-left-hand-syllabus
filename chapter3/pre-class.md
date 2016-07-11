@@ -18,10 +18,6 @@ Conduct 10-15 Customer Interviews  to generate findings.
 
         * pp. 267-269: Can We Make Money
 
-        * Review again pp. 437-456: Metrics that Matter 
-
-        * pp. 528: Validate Financial Model
-
 ### Presentations: Resources, Activities, and Costs
 
 Prepare a presentation to present your Resources, Activities, and Costs to the class:
