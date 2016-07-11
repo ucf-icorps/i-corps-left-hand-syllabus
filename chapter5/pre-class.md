@@ -15,4 +15,4 @@ Talk to at least 10-15 potential customers
 
     * SOM 
 
-### Presentations: Channels
+### Presentations:
