@@ -14,9 +14,9 @@ Conduct 10-15 Customer Interviews  to generate findings.
 
     * SOM 
 
-        * pp. 169-175: Resources
+        * pp. 169-175: Key Resources Hypothesis
 
-        * pp. 267-269: Can We Make Money
+        * pp. 267-269: Can We Make Money and Grow the Company?
 
 ### Presentations: Resources, Activities, and Costs
 
