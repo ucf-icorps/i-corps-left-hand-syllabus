@@ -52,10 +52,10 @@ Prepare a presentation to present your partners and costs to the class:
 
 * Slide 5: What did you learn about your Partners and Costs?
 
-    * Hypothesis: Here’s What we Thought
+    * Hypothesis: Here’s What We Thought
 
-    * Experiments: Here’s What we Did
+    * Experiments: Here’s What We Did
 
-    * Results: Here’s What we Found
+    * Results: Here’s What We Found
 
-    * Action: Here’s What we Are Going to Do Next
+    * Action: Here’s What We Are Going to Do Next
