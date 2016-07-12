@@ -1,3 +1,3 @@
 # Lean LaunchPad Frequently Asked Questions (FAQ)
 
-![Question](./question-mark.png)
+![Question](./question-mark.png "FAQ")
