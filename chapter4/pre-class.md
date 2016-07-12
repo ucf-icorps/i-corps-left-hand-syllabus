@@ -46,9 +46,9 @@ Prepare a presentation to present your partners and costs to the class:
 
     [https://steveblank.files.wordpress.com/2011/05/financial-and-ops-timeline.jpg](https://steveblank.files.wordpress.com/2011/05/financial-and-ops-timeline.jpg)
 
-* Roll up all the costs from Partners, Resources, and Activities in a spreadsheet by time
+    * Roll up all the costs from Partners, Resources, and Activities in a spreadsheet by time
 
-* Did anything change about Value Proposition or Customers/Users. Channel, Demand Creation/ Partners?
+    * Did anything change about Value Proposition or Customers/Users. Channel, Demand Creation/ Partners?
 
 * Slide 5: What did you learn about your Partners and Costs?
 
