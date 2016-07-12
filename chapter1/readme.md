@@ -1,3 +1,3 @@
 # Class 1: Right-hand side of the BMC
 
-![Right-hand](./rightHand_revStream.PNG)
+![Right-hand](./rightHand_revStream.PNG "Right-hand Canvas")
