@@ -77,6 +77,6 @@ Teams will present a 8-minute "Lessons Learned" presentation about what they lea
 
 Create a 2-minute video to be shown at the beginning of your final presentation. The video should summarize the Customer Discovery journey your team went on, highlighting the key customer insights that took you from your initial idea to today. Storytelling quality is critical. High production value is not (some of the best videos have been very straightforward). Also, make it personal—include the team in the video as well as key "aha" moments. This video is about the discovery process. It is not a marketing video for your product. Remember to test the volume of your video. Use speakers, as headphones can be misleading in regards to the production volume.
 
-Here are some resources for creating your video: [videoscribe](http://www.videoscribe.co/), powtoon](https://www.powtoon.com/), and [Vivavideo](http://www.vivavideo.tv/)
+Here are some resources for creating your video: [videoscribe](http://www.videoscribe.co/), [powtoon](https://www.powtoon.com/), and [Vivavideo](http://www.vivavideo.tv/)
 
 Upload the video to YouTube, and link to it from your team’s profile within LaunchPad Central.
