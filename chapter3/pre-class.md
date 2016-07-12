@@ -18,8 +18,6 @@ Conduct 10-15 Customer Interviews  to generate findings.
 
         * pp. 267-269: Can We Make Money and Grow the Company?
 
-        * **Review** pp. 438-456: Metrics that Matter
-
 ### Presentation: Key Resources and Key Activities
 
 Prepare a presentation to present your Key Resources and Key Activities to the class:
