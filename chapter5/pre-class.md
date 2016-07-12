@@ -7,7 +7,7 @@ Talk to at least 10-15 potential customers
 
 ### Reading/Viewing
 
-* Watch Flipped Classroom videos in LaunchPad Central
+* Watch
 
 * Read
 
