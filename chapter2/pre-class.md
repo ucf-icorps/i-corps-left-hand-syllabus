@@ -64,10 +64,10 @@ Prepare a presentation to present your channel partners:
 
 * Slide 8: What did you learn about your Channel, Revenue Streams, and Pricing?
 
-    * Hypothesis: Here’s What we Thought
+    * *Hypothesis*: Here’s What We Thought
 
-    * Experiments: Here’s what we Did
+    * *Experiments*: Here’s What We Did
 
-    * Results: Here’s What we Found
+    * *Results*: Here’s What We Found
 
-    * Action: Here’s What We Are Going to Do Next
+    * *Action*: Here’s What We Are Going to Do Next
