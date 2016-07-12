@@ -12,4 +12,4 @@
 
     2. 3 min. Q&A critiques with Teaching Team
 
-### Concepts Participants Should Understand
+3. Certificates & Pictures taken with the Teaching Team - 30 min.
