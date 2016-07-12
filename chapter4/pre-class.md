@@ -20,6 +20,8 @@ Conduct 10-15 Customer Interviews.
 
         * pp. 484: Partners Checklist
 
+        * **Review** pp. 438-456: Metrics that Matter
+
 ### Presentation: Key Partners & Costs
 
 ### Presentations: Key Partners
