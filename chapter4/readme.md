@@ -1,4 +1,4 @@
-# Class 4: Key Partners & Costs
+# Class 4
 
 ![Key Partners](./Key-Partnerships-Inline-Sized.png)
 
