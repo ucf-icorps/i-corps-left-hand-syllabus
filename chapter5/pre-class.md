@@ -53,7 +53,7 @@ Teams will present a 8-minute "Lessons Learned" presentation about what they lea
 
      * Narrative Arc: Lessons learned how? Enthusiasm, despair, learning then insight
 
-     * Show us: Images and demo to illustrate  learning = wireframes and pivots to finished product
+     * Show us: Images and demo to illustrate  learning = wire frames and pivots to finished product
 
      * Editing: Does each slide advance the character and plot (learning)
 
