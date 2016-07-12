@@ -20,7 +20,7 @@ Conduct 10-15 Customer Interviews.
 
 ### Presentation: Key Partners & Costs
 
-Prepare a presentation to present your partners and costs to the class:
+Prepare a presentation to present your Partners and Costs to the class:
 
 * Slide 1: Title slide
 
