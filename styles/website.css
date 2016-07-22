@@ -1,4 +1,6 @@
 /* CSS for website */
-.body-inner {
-    background-color: red;
+img {
+    display: block;
+    margin: auto;
+    width: 50%;
 }
